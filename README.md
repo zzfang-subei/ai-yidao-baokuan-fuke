@@ -14,13 +14,13 @@
 
 ```text
 请从 GitHub 安装这个 skill：
-https://github.com/<your-github-name>/ai-yidao-baokuan-fuke/tree/main/skills/ai-yidao-baokuan-fuke
+https://github.com/zzfang-subei/ai-yidao-baokuan-fuke/tree/main/skills/ai-yidao-baokuan-fuke
 ```
 
 或：
 
 ```text
-安装 <your-github-name>/ai-yidao-baokuan-fuke 里的 skills/ai-yidao-baokuan-fuke
+安装 zzfang-subei/ai-yidao-baokuan-fuke 里的 skills/ai-yidao-baokuan-fuke
 ```
 
 安装后下一轮对话可用：
